@@ -10,7 +10,6 @@
 #Love for All
 
 💫 About Me:
-
 🔭 I’m currently working on:
 
 🌾 KrishiVerse – Exploring an AgriTech platform to help farmers with crop recommendations, weather updates, and agricultural information.
