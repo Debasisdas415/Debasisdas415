@@ -13,14 +13,9 @@
 
 🔭 I’m currently working on:
 
-🌱 3D Garden for Education – An immersive 3D learning environment built with React Three Fiber
-🩸 LifeFlow – A smart blood donation system with real-time matching, Uber-style booking & SwiftUI app
-🎮 FearRun Game – A 3D React Three Fiber survival game with FPP/TPP switch, enemy AI & immersive gameplay
-🌱 I’m currently learning: React Native, OpenCV, AI Integration, and SwiftUI
-👯 I’m looking to collaborate on: AI, ML, EdTech, Web3, and Hackathon Projects
-🤝 I’m open to help with: Web & Mobile Development, Firebase, AI Features, and Game Dev (Unreal)
-
-🏆 Fun Fact: I’m a 8x Hackathon Winner & 13x Finalist
+🌾 KrishiVerse – Exploring an AgriTech platform to help farmers with crop recommendations, weather updates, and agricultural information.
+🌐 Full Stack Web Development – Building responsive websites and learning to develop complete web applications.
+🤖 AI & ML Projects – Exploring ways to integrate intelligent features into real-world applications.
 ## **Tools and technologies**
 
 
