@@ -14,7 +14,9 @@
 🔭 I’m currently working on:
 
 🌾 KrishiVerse – Exploring an AgriTech platform to help farmers with crop recommendations, weather updates, and agricultural information.
+
 🌐 Full Stack Web Development – Building responsive websites and learning to develop complete web applications.
+
 🤖 AI & ML Projects – Exploring ways to integrate intelligent features into real-world applications.
 ## **Tools and technologies**
 
